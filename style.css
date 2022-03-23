@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
-*
+* 
 {
   margin: 0;
   padding: 0;
@@ -48,7 +48,7 @@ header .logo {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgba(35, 54, 139, 0);
+  background: rgb(35, 54, 139);
   transition: 02.5555s;
   z-index: 2;
 }
@@ -160,7 +160,7 @@ header .logo {
 
 .menu ul li a {
   text-decoration: none;
-  font-size: 24px;
+  font-size: 34px;
   color: #111;
 }
 

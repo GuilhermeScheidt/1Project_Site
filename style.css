@@ -48,7 +48,7 @@ header .logo {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgb(35, 54, 139);
+  background: rgb(226, 224, 115);
   transition: 02.5555s;
   z-index: 2;
 }
